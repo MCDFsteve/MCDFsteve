@@ -9,7 +9,7 @@
 ## 🧑‍💻 关于我 | About Me
 
 - 跨平台开发者，热爱探索新技术
-- 主要使用 **Flutter**、**Ren'Py**、Python、Dart 等
+- 主要使用 **Flutter**、**Electron**、**Ren'Py**、Python、Dart、Node.js 等
 - 喜欢做有趣的项目，追求极致的用户体验
 - 关注 ACG、游戏、工具、自动化
 
@@ -17,19 +17,20 @@
 
 ## 🚀 代表项目 | Featured Projects
 
-| 项目名 | 简介 | Star |
-| ------ | ------------------------------------------------------------ | ---- |
-| [NipaPlay](https://github.com/MCDFsteve/NipaPlay) | 跨平台本地弹幕视频播放器，弹弹play的mac代餐，主打 macOS | 120 |
-| [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) | 现代化 Flutter 跨平台播放器，支持弹幕/多字幕/多音轨 | 12 |
-| [Kurisu](https://github.com/MCDFsteve/Kurisu) | 口头描述转换文件格式的程序 | 56 |
-| [Amadeus-R](https://github.com/MCDFsteve/Amadeus-R) | 基于 Renpy+ChatGPT 的角色 AI 聊天 | 27 |
-| [transition_fix](https://github.com/MCDFsteve/transition_fix) | Ren'Py 立绘转场修复补丁 | 2 |
-| [LaRfu](https://github.com/MCDFsteve/LaRfu) | 下落式双轨音乐游戏 | 2 |
+| 项目名 | 简介 | 技术栈 | Star |
+| ------ | ------------------------------------------------------------ | ------ | ---- |
+| [NipaPlay](https://github.com/MCDFsteve/NipaPlay) | 跨平台本地弹幕视频播放器，弹弹play的mac代餐，主打 macOS | Electron | 120 |
+| [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) | 现代化 Flutter 跨平台播放器，支持弹幕/多字幕/多音轨 | Flutter | 12 |
+| [Kurisu](https://github.com/MCDFsteve/Kurisu) | 口头描述转换文件格式的程序 | Electron | 56 |
+| [Amadeus-R](https://github.com/MCDFsteve/Amadeus-R) | 基于 Renpy+ChatGPT 的角色 AI 聊天 | Ren'Py, Python | 27 |
+| [transition_fix](https://github.com/MCDFsteve/transition_fix) | Ren'Py 立绘转场修复补丁 | Ren'Py | 2 |
+| [LaRfu](https://github.com/MCDFsteve/LaRfu) | 下落式双轨音乐游戏 | Python | 2 |
 
 ---
 
 ## 🛠️ 技能栈 | Tech Stack
 
+- Electron / Node.js
 - Flutter / Dart
 - Python / Ren'Py
 - 跨平台桌面与移动端开发
@@ -40,6 +41,7 @@
 
 ## 📫 联系方式 | Contact
 
+- 官网: [aimes-soft.com](https://aimes-soft.com)
 - GitHub: [MCDFsteve](https://github.com/MCDFsteve)
 
 ---
