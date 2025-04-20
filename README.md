@@ -53,7 +53,6 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MCDFsteve&theme=tokyonight" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github.com/MCDFsteve/MCDFsteve/raw/main/bgm/card.svg" alt="Bangumi" />
 </p>
 
 ---
