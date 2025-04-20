@@ -21,13 +21,10 @@
 | ------ | ------------------------------------------------------------ | ---- |
 | [NipaPlay](https://github.com/MCDFsteve/NipaPlay) | 跨平台本地弹幕视频播放器，弹弹play的mac代餐，主打 macOS | 120 |
 | [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) | 现代化 Flutter 跨平台播放器，支持弹幕/多字幕/多音轨 | 12 |
-| [FnipaPlay](https://github.com/MCDFsteve/FnipaPlay) | Flutter 重写版弹幕播放器，支持多平台 | 27 |
 | [Kurisu](https://github.com/MCDFsteve/Kurisu) | 口头描述转换文件格式的程序 | 56 |
 | [Amadeus-R](https://github.com/MCDFsteve/Amadeus-R) | 基于 Renpy+ChatGPT 的角色 AI 聊天 | 27 |
-| [SoraNoUta](https://github.com/MCDFsteve/SoraNoUta) | 空之歌的项目文件 | 1 |
 | [transition_fix](https://github.com/MCDFsteve/transition_fix) | Ren'Py 立绘转场修复补丁 | 2 |
 | [LaRfu](https://github.com/MCDFsteve/LaRfu) | 下落式双轨音乐游戏 | 2 |
-| [Zero-s-Time](https://github.com/MCDFsteve/Zero-s-Time) | ADV 视觉小说游戏 | 2 |
 
 ---
 
