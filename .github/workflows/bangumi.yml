@@ -1,0 +1,18 @@
+name: Bgm-Data-Sync
+on:
+  schedule: [{ cron: '0 0 * * *' }]
+  workflow_dispatch:
+  push: {branches: ["main"]}
+
+jobs:
+  bgm-sync:
+    runs-on: ubuntu-latest
+    name: 每日同步BGM收藏卡片
+    steps:
+      - name: Bgm Collection Card
+        id: bgm
+        uses: xiaoyvyv/bangumi-action@v1.1.17
+        with:
+          github-token: '${{secrets.GITHUB_TOKEN}}'
+          bgm-user-id: 'dfsteve'
+          bgm-img-path: 'bgm/card.svg' 
