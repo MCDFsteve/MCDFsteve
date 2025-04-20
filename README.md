@@ -24,7 +24,7 @@
 | [Kurisu](https://github.com/MCDFsteve/Kurisu) | 口头描述转换文件格式的程序 | Electron | 56 |
 | [Amadeus-R](https://github.com/MCDFsteve/Amadeus-R) | 基于 Renpy+ChatGPT 的角色 AI 聊天 | Ren'Py, Python | 27 |
 | [transition_fix](https://github.com/MCDFsteve/transition_fix) | Ren'Py 立绘转场修复补丁 | Ren'Py | 2 |
-| [LaRfu](https://github.com/MCDFsteve/LaRfu) | 下落式双轨音乐游戏 | Python | 2 |
+| [LaRfu](https://github.com/MCDFsteve/LaRfu) | 下落式双轨音乐游戏 | Electron | 2 |
 
 ---
 
