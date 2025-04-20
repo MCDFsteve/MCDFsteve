@@ -54,6 +54,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MCDFsteve&theme=tokyonight" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=MCDFsteve&theme=tokyonight&column=6" alt="Trophy"/>
+  <br/>
+  <img src="https://bangumi-card.now.sh/?user=dfsteve&theme=dark" alt="Bangumi"/>
 </p>
 
 ---
