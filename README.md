@@ -9,7 +9,7 @@
 ## 🧑‍💻 关于我 | About Me
 
 - 跨平台开发者，热爱探索新技术
-- 主要使用 **Flutter**、**Electron**、**Ren'Py**、Python、Dart、Node.js 等
+- 主要使用 **Flutter**、**Electron**、**Ren'Py**、Python、Dart、Node.js、C#等
 - 喜欢做有趣的项目，追求极致的用户体验
 - 关注 ACG、游戏、工具、自动化
 
