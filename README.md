@@ -19,8 +19,8 @@
 
 | 项目名 | 简介 | 技术栈 | Star |
 | ------ | ------------------------------------------------------------ | ------ | ---- |
-| [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) | 现代化 Flutter 跨平台播放器，支持弹幕/多字幕/多音轨 | Flutter | 259 |
-| [NipaPlay](https://github.com/MCDFsteve/NipaPlay) | 跨平台本地弹幕视频播放器，弹弹play的mac代餐，主打 macOS | Electron | 138 |
+| [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) | 现代化 Flutter 跨平台播放器，支持弹幕/多字幕/多音轨 | Flutter | 270 |
+| [NipaPlay](https://github.com/MCDFsteve/NipaPlay) | 跨平台本地弹幕视频播放器，弹弹play的mac代餐，主打 macOS | Electron | 141 |
 | [Kurisu](https://github.com/MCDFsteve/Kurisu) | 口头描述转换文件格式的程序 | Electron | 58 |
 | [Amadeus-R](https://github.com/MCDFsteve/Amadeus-R) | 基于 Renpy+ChatGPT 的角色 AI 聊天 | Ren'Py, Python | 29 |
 | [transition_fix](https://github.com/MCDFsteve/transition_fix) | Ren'Py 立绘转场修复补丁 | Ren'Py | 2 |
