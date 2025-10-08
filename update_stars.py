@@ -13,9 +13,9 @@ GITHUB_API_BASE = "https://api.github.com/repos"
 PROJECTS = [
     {
         "name": "NipaPlay",
-        "repo": "MCDFsteve/NipaPlay",
-        "description": "跨平台本地弹幕视频播放器，弹弹play的mac代餐，主打 macOS",
-        "tech": "Electron"
+        "repo": "MCDFsteve/SakiEngine",
+        "description": "视觉小说游戏引擎，语法类似Ren'Py",
+        "tech": "Flutter"
     },
     {
         "name": "NipaPlay-Reload", 
@@ -36,10 +36,10 @@ PROJECTS = [
         "tech": "Ren'Py, Python"
     },
     {
-        "name": "transition_fix",
-        "repo": "MCDFsteve/transition_fix",
-        "description": "Ren'Py 立绘转场修复补丁", 
-        "tech": "Ren'Py"
+        "name": "flutter_steamworks",
+        "repo": "MCDFsteve/flutter_steamworks",
+        "description": "可以在flutter调用steam接口，用于开发游戏", 
+        "tech": "Flutter"
     },
     {
         "name": "LaRfu",
