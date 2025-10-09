@@ -12,7 +12,7 @@ GITHUB_API_BASE = "https://api.github.com/repos"
 # 项目配置 - 需要更新star数的项目
 PROJECTS = [
     {
-        "name": "NipaPlay",
+        "name": "SakiEngine",
         "repo": "MCDFsteve/SakiEngine",
         "description": "视觉小说游戏引擎，语法类似Ren'Py",
         "tech": "Flutter"
