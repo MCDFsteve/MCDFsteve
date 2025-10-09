@@ -19,12 +19,12 @@
 
 | 项目名 | 简介 | 技术栈 | Star |
 | ------ | ------------------------------------------------------------ | ------ | ---- |
-| [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) | 现代化 Flutter 跨平台播放器，支持弹幕/多字幕/多音轨 | Flutter | 753 |
-| [NipaPlay](https://github.com/MCDFsteve/NipaPlay) | 跨平台本地弹幕视频播放器，弹弹play的mac代餐，主打 macOS | Electron | 148 |
+| [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) | 现代化 Flutter 跨平台播放器，支持弹幕/多字幕/多音轨 | Flutter | 757 |
 | [Kurisu](https://github.com/MCDFsteve/Kurisu) | 口头描述转换文件格式的程序 | Electron | 63 |
 | [Amadeus-R](https://github.com/MCDFsteve/Amadeus-R) | 基于 Renpy+ChatGPT 的角色 AI 聊天 | Ren'Py, Python | 30 |
+| [NipaPlay](https://github.com/MCDFsteve/SakiEngine) | 视觉小说游戏引擎，语法类似Ren'Py | Flutter | 20 |
 | [LaRfu](https://github.com/MCDFsteve/LaRfu) | 下落式双轨音乐游戏 | Python | 3 |
-| [transition_fix](https://github.com/MCDFsteve/transition_fix) | Ren'Py 立绘转场修复补丁 | Ren'Py | 2 |
+| [flutter_steamworks](https://github.com/MCDFsteve/flutter_steamworks) | 可以在flutter调用steam接口，用于开发游戏 | Flutter | 1 |
 
 ---
 
