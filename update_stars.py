@@ -36,9 +36,9 @@ PROJECTS = [
         "tech": "Ren'Py, Python"
     },
     {
-        "name": "flutter_steamworks",
-        "repo": "MCDFsteve/flutter_steamworks",
-        "description": "可以在flutter调用steam接口，用于开发游戏", 
+        "name": "Misuzu Music",
+        "repo": "MCDFsteve/misuzumusic",
+        "description": "跨平台本地音乐播放器，自动匹配封面和歌词", 
         "tech": "Flutter"
     },
     {
