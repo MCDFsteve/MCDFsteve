@@ -42,10 +42,10 @@ PROJECTS = [
         "tech": "Flutter"
     },
     {
-        "name": "LaRfu",
-        "repo": "MCDFsteve/LaRfu",
-        "description": "下落式双轨音乐游戏",
-        "tech": "Python"
+        "name": "MisaRin",
+        "repo": "MCDFsteve/MisaRin",
+        "description": "一个功能接近SAI2的跨平台绘画与图像处理软件",
+        "tech": "Flutter"
     }
 ]
 
