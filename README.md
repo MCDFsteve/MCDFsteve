@@ -19,12 +19,12 @@
 
 | 项目名 | 简介 | 技术栈 | Star |
 | ------ | ------------------------------------------------------------ | ------ | ---- |
-| [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) | 现代化 Flutter 跨平台播放器，支持弹幕/多字幕/多音轨 | Flutter | 999 |
+| [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) | 现代化 Flutter 跨平台播放器，支持弹幕/多字幕/多音轨 | Flutter | 1004 |
 | [Kurisu](https://github.com/MCDFsteve/Kurisu) | 口头描述转换文件格式的程序 | Electron | 65 |
 | [Amadeus-R](https://github.com/MCDFsteve/Amadeus-R) | 基于 Renpy+ChatGPT 的角色 AI 聊天 | Ren'Py, Python | 32 |
+| [Misuzu Music](https://github.com/MCDFsteve/misuzumusic) | 跨平台本地音乐播放器，自动匹配封面和歌词 | Flutter | 30 |
 | [SakiEngine](https://github.com/MCDFsteve/SakiEngine) | 视觉小说游戏引擎，语法类似Ren'Py | Flutter | 27 |
-| [Misuzu Music](https://github.com/MCDFsteve/misuzumusic) | 跨平台本地音乐播放器，自动匹配封面和歌词 | Flutter | 21 |
-| [LaRfu](https://github.com/MCDFsteve/LaRfu) | 下落式双轨音乐游戏 | Python | 3 |
+| [MisaRin](https://github.com/MCDFsteve/MisaRin) | 一个功能接近SAI2的跨平台绘画与图像处理软件 | Flutter | 7 |
 
 ---
 
