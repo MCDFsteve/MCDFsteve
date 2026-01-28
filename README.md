@@ -19,7 +19,7 @@
 
 | 项目名 | 简介 | 技术栈 | Star |
 | ------ | ------------------------------------------------------------ | ------ | ---- |
-| [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) | 现代化 Flutter 跨平台播放器，支持弹幕/多字幕/多音轨 | Flutter | 1187 |
+| [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) | 现代化 Flutter 跨平台播放器，支持弹幕/多字幕/多音轨 | Flutter | 1192 |
 | [Kurisu](https://github.com/MCDFsteve/Kurisu) | 口头描述转换文件格式的程序 | Electron | 65 |
 | [Misuzu Music](https://github.com/MCDFsteve/misuzumusic) | 跨平台本地音乐播放器，自动匹配封面和歌词 | Flutter | 58 |
 | [SakiEngine](https://github.com/MCDFsteve/SakiEngine) | 视觉小说游戏引擎，语法类似Ren'Py | Flutter | 33 |
