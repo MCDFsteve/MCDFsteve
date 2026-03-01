@@ -24,7 +24,7 @@
 | [Misuzu Music](https://github.com/MCDFsteve/misuzumusic) | 跨平台本地音乐播放器，自动匹配封面和歌词 | Flutter | 58 |
 | [SakiEngine](https://github.com/MCDFsteve/SakiEngine) | 视觉小说游戏引擎，语法类似Ren'Py | Flutter | 33 |
 | [Amadeus-R](https://github.com/MCDFsteve/Amadeus-R) | 基于 Renpy+ChatGPT 的角色 AI 聊天 | Ren'Py, Python | 33 |
-| [MisaRin](https://github.com/MCDFsteve/MisaRin) | 一个功能接近SAI2的跨平台绘画与图像处理软件 | Flutter | 16 |
+| [MisaRin](https://github.com/MCDFsteve/MisaRin) | 一个功能接近SAI2的跨平台绘画与图像处理软件 | Flutter | 18 |
 
 ---
 
