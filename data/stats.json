@@ -1,0 +1,547 @@
+{
+ "repos": 40,
+ "stars_total": 2544,
+ "stars": {
+  "MCDFsteve/Amadeus-R": 35,
+  "MCDFsteve/Boat": 0,
+  "MCDFsteve/Enji": 86,
+  "MCDFsteve/enji-plugins": 1,
+  "MCDFsteve/flutter_steamworks": 2,
+  "MCDFsteve/FnipaPlay": 27,
+  "MCDFsteve/JitunoArmorStand4.0": 0,
+  "MCDFsteve/Kurisu": 68,
+  "MCDFsteve/LaRfu": 3,
+  "MCDFsteve/LeicaCraft-Mod": 0,
+  "MCDFsteve/libnipa-core": 0,
+  "MCDFsteve/LightandShadow": 0,
+  "MCDFsteve/mcdev_income": 14,
+  "MCDFsteve/MCDFsteve": 0,
+  "MCDFsteve/NipaPlay": 172,
+  "MCDFsteve/NipaPlay-OfficialWebUrl": 2,
+  "MCDFsteve/oreui_flutter": 8,
+  "MCDFsteve/SoraNoUta-SakiEngine": 0,
+  "MCDFsteve/transition_fix": 2,
+  "MCDFsteve/Word-docx-PNG-pdf-": 1,
+  "MCDFsteve/Zero-s-Time": 2,
+  "AimesSoft/NipaPlay-Reload": 1857,
+  "AimesSoft/SakiEngine": 69,
+  "AimesSoft/homebrew-nipaplay-reload": 0,
+  "AimesSoft/MisuzuMusic": 96,
+  "AimesSoft/MisaRin": 27,
+  "AimesSoft/RikaBot": 4,
+  "AimesSoft/Nipaplay-plugins": 1,
+  "AimesSoft/liberika": 43,
+  "AimesSoft/aimes-soft-site": 0,
+  "AimesSoft/nipa-agent": 0,
+  "AimesSoft/nipaserver": 1,
+  "AimesSoft/Bern": 14,
+  "AimesSoft/erika-web-concepts": 2,
+  "AimesSoft/liberika-swift": 0,
+  "AimesSoft/flutter-cross-toolchain": 0,
+  "AimesSoft/Kana": 1,
+  "AimesSoft/Erika": 1,
+  "AimesSoft/RustSend": 5,
+  "AimesSoft/erika_plugins": 0
+ },
+ "languages": {
+  "Dart": 28761783,
+  "Rust": 18149319,
+  "C++": 2306253,
+  "Swift": 1826917,
+  "JavaScript": 1712246,
+  "Kotlin": 910177,
+  "C": 852628,
+  "Python": 822146,
+  "PHP": 232928,
+  "TypeScript": 144509,
+  "Svelte": 128155,
+  "Ruby": 101938,
+  "Java": 70920,
+  "Objective-C": 39773,
+  "QMake": 1467,
+  "C#": 1090
+ },
+ "since": "2020-09-20",
+ "followers": 95,
+ "contributions": 5688,
+ "first_day": "2025-11-02",
+ "weeks": [
+  [
+   30,
+   28,
+   31,
+   34,
+   21,
+   21,
+   45
+  ],
+  [
+   47,
+   71,
+   26,
+   25,
+   37,
+   78,
+   26
+  ],
+  [
+   21,
+   23,
+   15,
+   6,
+   5,
+   1,
+   7
+  ],
+  [
+   4,
+   28,
+   23,
+   34,
+   26,
+   20,
+   24
+  ],
+  [
+   20,
+   14,
+   38,
+   24,
+   34,
+   68,
+   36
+  ],
+  [
+   36,
+   28,
+   29,
+   40,
+   13,
+   9,
+   13
+  ],
+  [
+   22,
+   3,
+   4,
+   15,
+   3,
+   19,
+   14
+  ],
+  [
+   6,
+   23,
+   15,
+   18,
+   1,
+   3,
+   5
+  ],
+  [
+   12,
+   10,
+   9,
+   14,
+   9,
+   14,
+   16
+  ],
+  [
+   10,
+   35,
+   22,
+   37,
+   18,
+   11,
+   24
+  ],
+  [
+   21,
+   35,
+   37,
+   39,
+   24,
+   17,
+   19
+  ],
+  [
+   20,
+   29,
+   14,
+   14,
+   16,
+   10,
+   36
+  ],
+  [
+   34,
+   19,
+   19,
+   19,
+   17,
+   11,
+   13
+  ],
+  [
+   15,
+   17,
+   19,
+   31,
+   10,
+   19,
+   17
+  ],
+  [
+   2,
+   12,
+   10,
+   8,
+   11,
+   27,
+   19
+  ],
+  [
+   8,
+   23,
+   9,
+   14,
+   43,
+   14,
+   17
+  ],
+  [
+   17,
+   9,
+   7,
+   9,
+   16,
+   14,
+   20
+  ],
+  [
+   6,
+   10,
+   10,
+   18,
+   31,
+   49,
+   14
+  ],
+  [
+   14,
+   21,
+   3,
+   3,
+   6,
+   31,
+   5
+  ],
+  [
+   3,
+   2,
+   1,
+   10,
+   14,
+   9,
+   5
+  ],
+  [
+   3,
+   10,
+   16,
+   32,
+   18,
+   29,
+   6
+  ],
+  [
+   10,
+   7,
+   31,
+   20,
+   15,
+   4,
+   22
+  ],
+  [
+   11,
+   12,
+   4,
+   1,
+   8,
+   9,
+   7
+  ],
+  [
+   18,
+   15,
+   19,
+   15,
+   17,
+   14,
+   1
+  ],
+  [
+   18,
+   17,
+   25,
+   25,
+   12,
+   21,
+   7
+  ],
+  [
+   7,
+   15,
+   14,
+   2,
+   18,
+   6,
+   17
+  ],
+  [
+   17,
+   7,
+   15,
+   15,
+   9,
+   5,
+   11
+  ],
+  [
+   3,
+   2,
+   6,
+   8,
+   14,
+   18,
+   19
+  ],
+  [
+   15,
+   12,
+   17,
+   7,
+   19,
+   8,
+   15
+  ],
+  [
+   17,
+   18,
+   10,
+   12,
+   5,
+   17,
+   10
+  ],
+  [
+   24,
+   5,
+   17,
+   27,
+   1,
+   13,
+   16
+  ],
+  [
+   14,
+   7,
+   10,
+   8,
+   14,
+   15,
+   29
+  ],
+  [
+   12,
+   12,
+   8,
+   11,
+   16,
+   6,
+   6
+  ],
+  [
+   3,
+   9,
+   15,
+   7,
+   8,
+   8,
+   24
+  ],
+  [
+   31,
+   17,
+   18,
+   0,
+   7,
+   28,
+   21
+  ],
+  [
+   12,
+   11,
+   20,
+   14,
+   11,
+   2,
+   8
+  ],
+  [
+   8,
+   16,
+   3,
+   13,
+   13,
+   20,
+   6
+  ],
+  [
+   12,
+   7,
+   5,
+   16,
+   0,
+   2,
+   8
+  ],
+  [
+   19,
+   14,
+   6,
+   9,
+   11,
+   5,
+   2
+  ],
+  [
+   3,
+   34,
+   22,
+   0,
+   0,
+   10,
+   19
+  ],
+  [
+   4,
+   2,
+   8,
+   1,
+   3,
+   3,
+   6
+  ],
+  [
+   9,
+   1,
+   5,
+   1,
+   1,
+   13,
+   2
+  ],
+  [
+   10,
+   13,
+   6,
+   6,
+   6,
+   18,
+   8
+  ],
+  [
+   4,
+   1,
+   2,
+   10,
+   3,
+   4,
+   0
+  ],
+  [
+   15,
+   1,
+   10,
+   7,
+   2,
+   4,
+   5
+  ],
+  [
+   3,
+   8,
+   12,
+   3,
+   8,
+   22,
+   6
+  ],
+  [
+   5,
+   2,
+   1,
+   22,
+   11,
+   20,
+   11
+  ],
+  [
+   26,
+   27,
+   18,
+   14,
+   6,
+   4,
+   6
+  ],
+  [
+   14,
+   2,
+   4,
+   6,
+   14,
+   11,
+   31
+  ],
+  [
+   20,
+   38,
+   10,
+   15,
+   2,
+   0,
+   4
+  ],
+  [
+   12,
+   24,
+   52,
+   47,
+   9,
+   28,
+   62
+  ],
+  [
+   44,
+   4,
+   46,
+   9,
+   22,
+   21,
+   10
+  ],
+  [
+   7,
+   30,
+   47,
+   24,
+   59,
+   38,
+   40
+  ]
+ ]
+}

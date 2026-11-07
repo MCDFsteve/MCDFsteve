@@ -1,0 +1,125 @@
+# 主页图片里的文字和数据。改完推送到 main，一分钟左右图片会自动重画。
+# 正文不在这里，直接改 README.md。
+#
+# value 里可以写这些会每天更新的数字：
+#   {uptime} 注册至今  {repos} 公开仓库数  {stars} 星标总数
+#   {followers} 关注者  {contributions} 近一年贡献
+# 带数字的行会显示成红字。
+
+[opening]
+prompt = "steve@aimes ~ %"
+line = "我不是什么都知道，我只知道我知道的。"
+motto = "I want to do whatever I want to do."
+# 红色面板上的竖排字，一项一列，从右往左读
+vertical = ["让代码成为", "表达自我的方式"]
+
+[[opening.rows]]
+key = "ui"
+value = "Bern"
+
+[[opening.rows]]
+key = "player"
+value = "Erika"
+
+[[opening.rows]]
+key = "uptime"
+value = "{uptime}"
+
+[[opening.rows]]
+key = "packages"
+value = "{repos} public"
+
+[[opening.rows]]
+key = "stars"
+value = "{stars}"
+
+# 世界线：每条线一行。节点写 [名字, 年-月, 时代]，时代是 flutter 或 rust
+[[track]]
+name = "视频"
+nodes = [["NipaPlay-Reload", "2025-03", "flutter"], ["Erika", "2026-10", "rust"]]
+
+[[track]]
+name = "音乐"
+nodes = [["Misuzu Music", "2025-10", "flutter"], ["Enji", "2026-11", "rust"]]
+
+[[track]]
+name = "图像"
+nodes = [["MisaRin", "2025-11", "flutter"]]
+
+[[track]]
+name = "视觉小说"
+nodes = [["SakiEngine", "2025-07", "flutter"]]
+
+[[track]]
+name = "工具"
+nodes = [["RustSend", "2026-10", "rust"]]
+
+[[track]]
+name = "框架"
+nodes = [["Bern", "2026-08", "rust"]]
+
+# 存档条：顺序就是 SAVE 编号。README 里用 assets/<主题>/save-<key>.svg 引用
+# icon 可选 bern erika enji rustsend nipaplay misuzu saki misarin
+[[save]]
+key = "bern"
+name = "Bern"
+repo = "AimesSoft/Bern"
+era = "rust"
+stack = "Rust"
+icon = "bern"
+
+[[save]]
+key = "erika"
+name = "Erika"
+repo = "AimesSoft/Erika"
+era = "rust"
+stack = "Rust / Bern"
+icon = "erika"
+
+[[save]]
+key = "enji"
+name = "Enji"
+repo = "MCDFsteve/Enji"
+era = "rust"
+stack = "Rust / Bern"
+icon = "enji"
+
+[[save]]
+key = "rustsend"
+name = "RustSend"
+repo = "AimesSoft/RustSend"
+era = "rust"
+stack = "Rust / Bern"
+icon = "rustsend"
+
+[[save]]
+key = "nipaplay-reload"
+name = "NipaPlay-Reload"
+repo = "AimesSoft/NipaPlay-Reload"
+era = "flutter"
+stack = "Flutter / Rust"
+icon = "nipaplay"
+
+[[save]]
+key = "misuzu-music"
+name = "Misuzu Music"
+repo = "AimesSoft/MisuzuMusic"
+era = "flutter"
+stack = "Flutter"
+icon = "misuzu"
+
+[[save]]
+key = "sakiengine"
+name = "SakiEngine"
+repo = "AimesSoft/SakiEngine"
+era = "flutter"
+stack = "Flutter / Rust"
+icon = "saki"
+
+[[save]]
+key = "misarin"
+name = "MisaRin"
+repo = "AimesSoft/MisaRin"
+era = "flutter"
+stack = "Flutter / Rust"
+icon = "misarin"
