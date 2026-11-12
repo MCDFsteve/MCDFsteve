@@ -1,10 +1,10 @@
 {
  "repos": 40,
- "stars_total": 2580,
+ "stars_total": 2584,
  "stars": {
   "MCDFsteve/Amadeus-R": 35,
   "MCDFsteve/Boat": 0,
-  "MCDFsteve/Enji": 109,
+  "MCDFsteve/Enji": 113,
   "MCDFsteve/enji-plugins": 1,
   "MCDFsteve/flutter_steamworks": 2,
   "MCDFsteve/FnipaPlay": 27,
@@ -45,10 +45,10 @@
  },
  "languages": {
   "Dart": 28829446,
-  "Rust": 18718628,
+  "Rust": 19818896,
   "C++": 2340912,
-  "Swift": 1861528,
-  "JavaScript": 1766202,
+  "Swift": 1863804,
+  "JavaScript": 1769356,
   "Kotlin": 951725,
   "Python": 856626,
   "C": 853705,
@@ -63,7 +63,7 @@
  },
  "since": "2020-09-20",
  "followers": 98,
- "contributions": 5590,
+ "contributions": 5606,
  "first_day": "2025-11-09",
  "weeks": [
   [
@@ -538,7 +538,8 @@
    24,
    27,
    9,
-   13
+   23,
+   6
   ]
  ]
 }
