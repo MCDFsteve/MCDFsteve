@@ -1,10 +1,10 @@
 {
  "repos": 41,
- "stars_total": 2594,
+ "stars_total": 2600,
  "stars": {
   "MCDFsteve/Amadeus-R": 35,
   "MCDFsteve/Boat": 0,
-  "MCDFsteve/Enji": 114,
+  "MCDFsteve/Enji": 116,
   "MCDFsteve/enji-plugins": 1,
   "MCDFsteve/flutter_steamworks": 2,
   "MCDFsteve/FnipaPlay": 27,
@@ -22,7 +22,7 @@
   "MCDFsteve/transition_fix": 2,
   "MCDFsteve/Word-docx-PNG-pdf-": 1,
   "MCDFsteve/Zero-s-Time": 2,
-  "AimesSoft/NipaPlay-Reload": 1868,
+  "AimesSoft/NipaPlay-Reload": 1871,
   "AimesSoft/SakiEngine": 70,
   "AimesSoft/NipaPlay-OfficialWebUrl": 2,
   "AimesSoft/homebrew-nipaplay-reload": 0,
@@ -34,7 +34,7 @@
   "AimesSoft/aimes-soft-site": 0,
   "AimesSoft/nipa-agent": 0,
   "AimesSoft/nipaserver": 1,
-  "AimesSoft/Bern": 19,
+  "AimesSoft/Bern": 20,
   "AimesSoft/erika-web-concepts": 2,
   "AimesSoft/liberika-swift": 0,
   "AimesSoft/flutter-cross-toolchain": 0,
@@ -45,11 +45,11 @@
   "AimesSoft/aimes-report": 0
  },
  "languages": {
-  "Dart": 28844480,
-  "Rust": 20493567,
-  "C++": 2345207,
-  "Swift": 1935565,
-  "JavaScript": 1774642,
+  "Dart": 28907712,
+  "Rust": 20575090,
+  "C++": 2353728,
+  "Swift": 1959146,
+  "JavaScript": 1775168,
   "Kotlin": 1013180,
   "Python": 878964,
   "C": 854486,
@@ -66,7 +66,7 @@
  },
  "since": "2020-09-20",
  "followers": 99,
- "contributions": 5700,
+ "contributions": 5416,
  "first_day": "2025-11-16",
  "weeks": [
   [
@@ -538,7 +538,8 @@
    39
   ],
   [
-   6
+   24,
+   8
   ]
  ]
 }
