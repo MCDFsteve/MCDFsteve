@@ -1,10 +1,10 @@
 {
  "repos": 41,
- "stars_total": 2599,
+ "stars_total": 2600,
  "stars": {
   "MCDFsteve/Amadeus-R": 35,
   "MCDFsteve/Boat": 0,
-  "MCDFsteve/Enji": 115,
+  "MCDFsteve/Enji": 116,
   "MCDFsteve/enji-plugins": 1,
   "MCDFsteve/flutter_steamworks": 2,
   "MCDFsteve/FnipaPlay": 27,
@@ -16,7 +16,7 @@
   "MCDFsteve/LightandShadow": 0,
   "MCDFsteve/mcdev_income": 16,
   "MCDFsteve/MCDFsteve": 0,
-  "MCDFsteve/NipaPlay": 172,
+  "MCDFsteve/NipaPlay": 171,
   "MCDFsteve/oreui_flutter": 8,
   "MCDFsteve/SoraNoUta-SakiEngine": 0,
   "MCDFsteve/transition_fix": 2,
@@ -34,7 +34,7 @@
   "AimesSoft/aimes-soft-site": 0,
   "AimesSoft/nipa-agent": 0,
   "AimesSoft/nipaserver": 1,
-  "AimesSoft/Bern": 20,
+  "AimesSoft/Bern": 21,
   "AimesSoft/erika-web-concepts": 2,
   "AimesSoft/liberika-swift": 0,
   "AimesSoft/flutter-cross-toolchain": 0,
@@ -46,9 +46,9 @@
  },
  "languages": {
   "Dart": 28908097,
-  "Rust": 20875293,
+  "Rust": 20880426,
   "C++": 2363989,
-  "Swift": 1978397,
+  "Swift": 1983501,
   "JavaScript": 1776897,
   "Kotlin": 1031557,
   "Python": 878964,
@@ -66,7 +66,7 @@
  },
  "since": "2020-09-20",
  "followers": 99,
- "contributions": 5449,
+ "contributions": 5457,
  "first_day": "2025-11-16",
  "weeks": [
   [
@@ -540,7 +540,8 @@
   [
    24,
    27,
-   14
+   16,
+   6
   ]
  ]
 }
