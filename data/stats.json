@@ -1,10 +1,10 @@
 {
- "repos": 41,
- "stars_total": 2605,
+ "repos": 42,
+ "stars_total": 2613,
  "stars": {
   "MCDFsteve/Amadeus-R": 35,
   "MCDFsteve/Boat": 0,
-  "MCDFsteve/Enji": 119,
+  "MCDFsteve/Enji": 121,
   "MCDFsteve/enji-plugins": 1,
   "MCDFsteve/flutter_steamworks": 2,
   "MCDFsteve/FnipaPlay": 27,
@@ -22,7 +22,7 @@
   "MCDFsteve/transition_fix": 2,
   "MCDFsteve/Word-docx-PNG-pdf-": 1,
   "MCDFsteve/Zero-s-Time": 2,
-  "AimesSoft/NipaPlay-Reload": 1873,
+  "AimesSoft/NipaPlay-Reload": 1877,
   "AimesSoft/SakiEngine": 70,
   "AimesSoft/NipaPlay-OfficialWebUrl": 2,
   "AimesSoft/homebrew-nipaplay-reload": 0,
@@ -30,11 +30,11 @@
   "AimesSoft/MisaRin": 27,
   "AimesSoft/RikaBot": 4,
   "AimesSoft/Nipaplay-plugins": 1,
-  "AimesSoft/liberika": 44,
+  "AimesSoft/liberika": 45,
   "AimesSoft/aimes-soft-site": 0,
   "AimesSoft/nipa-agent": 0,
   "AimesSoft/nipaserver": 1,
-  "AimesSoft/Bern": 21,
+  "AimesSoft/Bern": 22,
   "AimesSoft/erika-web-concepts": 2,
   "AimesSoft/liberika-swift": 0,
   "AimesSoft/flutter-cross-toolchain": 0,
@@ -42,19 +42,20 @@
   "AimesSoft/Erika": 2,
   "AimesSoft/RustSend": 6,
   "AimesSoft/erika_plugins": 0,
-  "AimesSoft/aimes-report": 0
+  "AimesSoft/aimes-report": 0,
+  "AimesSoft/rika_plugins": 0
  },
  "languages": {
-  "Dart": 29017561,
-  "Rust": 21271654,
-  "C++": 2381308,
-  "Swift": 2020775,
-  "JavaScript": 1807530,
-  "Kotlin": 1055639,
-  "Python": 878960,
-  "C": 854902,
+  "Dart": 29075330,
+  "Rust": 22010752,
+  "C++": 2503977,
+  "Swift": 2104223,
+  "JavaScript": 1870044,
+  "Kotlin": 1129167,
+  "Python": 984528,
+  "C": 857173,
   "PHP": 232928,
-  "TypeScript": 144697,
+  "TypeScript": 148557,
   "Svelte": 128155,
   "Ruby": 101881,
   "Java": 70920,
@@ -66,7 +67,7 @@
  },
  "since": "2020-09-20",
  "followers": 100,
- "contributions": 5495,
+ "contributions": 5534,
  "first_day": "2025-11-16",
  "weeks": [
   [
@@ -542,7 +543,8 @@
    27,
    16,
    19,
-   25
+   36,
+   28
   ]
  ]
 }
