@@ -1,6 +1,6 @@
 {
  "repos": 42,
- "stars_total": 2613,
+ "stars_total": 2619,
  "stars": {
   "MCDFsteve/Amadeus-R": 35,
   "MCDFsteve/Boat": 0,
@@ -14,7 +14,7 @@
   "MCDFsteve/LeicaCraft-Mod": 0,
   "MCDFsteve/libnipa-core": 0,
   "MCDFsteve/LightandShadow": 0,
-  "MCDFsteve/mcdev_income": 16,
+  "MCDFsteve/mcdev_income": 17,
   "MCDFsteve/MCDFsteve": 0,
   "MCDFsteve/NipaPlay": 171,
   "MCDFsteve/oreui_flutter": 8,
@@ -22,8 +22,8 @@
   "MCDFsteve/transition_fix": 2,
   "MCDFsteve/Word-docx-PNG-pdf-": 1,
   "MCDFsteve/Zero-s-Time": 2,
-  "AimesSoft/NipaPlay-Reload": 1877,
-  "AimesSoft/SakiEngine": 70,
+  "AimesSoft/NipaPlay-Reload": 1881,
+  "AimesSoft/SakiEngine": 71,
   "AimesSoft/NipaPlay-OfficialWebUrl": 2,
   "AimesSoft/homebrew-nipaplay-reload": 0,
   "AimesSoft/MisuzuMusic": 96,
@@ -46,12 +46,12 @@
   "AimesSoft/rika_plugins": 0
  },
  "languages": {
-  "Dart": 29075330,
-  "Rust": 22010752,
-  "C++": 2503977,
+  "Dart": 29091512,
+  "Rust": 22172604,
+  "C++": 2514365,
   "Swift": 2104223,
-  "JavaScript": 1870044,
-  "Kotlin": 1129167,
+  "JavaScript": 1880056,
+  "Kotlin": 1131888,
   "Python": 984528,
   "C": 857173,
   "PHP": 232928,
@@ -67,7 +67,7 @@
  },
  "since": "2020-09-20",
  "followers": 100,
- "contributions": 5534,
+ "contributions": 5557,
  "first_day": "2025-11-16",
  "weeks": [
   [
@@ -544,7 +544,8 @@
    16,
    19,
    36,
-   28
+   44,
+   7
   ]
  ]
 }
