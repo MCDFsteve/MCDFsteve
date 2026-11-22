@@ -1,10 +1,10 @@
 {
  "repos": 42,
- "stars_total": 2619,
+ "stars_total": 2623,
  "stars": {
   "MCDFsteve/Amadeus-R": 35,
   "MCDFsteve/Boat": 0,
-  "MCDFsteve/Enji": 121,
+  "MCDFsteve/Enji": 122,
   "MCDFsteve/enji-plugins": 1,
   "MCDFsteve/flutter_steamworks": 2,
   "MCDFsteve/FnipaPlay": 27,
@@ -22,7 +22,7 @@
   "MCDFsteve/transition_fix": 2,
   "MCDFsteve/Word-docx-PNG-pdf-": 1,
   "MCDFsteve/Zero-s-Time": 2,
-  "AimesSoft/NipaPlay-Reload": 1881,
+  "AimesSoft/NipaPlay-Reload": 1884,
   "AimesSoft/SakiEngine": 71,
   "AimesSoft/NipaPlay-OfficialWebUrl": 2,
   "AimesSoft/homebrew-nipaplay-reload": 0,
@@ -46,12 +46,12 @@
   "AimesSoft/rika_plugins": 0
  },
  "languages": {
-  "Dart": 29091512,
-  "Rust": 22172604,
-  "C++": 2514365,
-  "Swift": 2104223,
-  "JavaScript": 1880056,
-  "Kotlin": 1131888,
+  "Dart": 29164183,
+  "Rust": 22248261,
+  "C++": 2532456,
+  "Swift": 2109887,
+  "JavaScript": 1886797,
+  "Kotlin": 1139174,
   "Python": 984528,
   "C": 857173,
   "PHP": 232928,
@@ -66,19 +66,10 @@
   "GDB": 175
  },
  "since": "2020-09-20",
- "followers": 100,
- "contributions": 5557,
- "first_day": "2025-11-16",
+ "followers": 101,
+ "contributions": 5564,
+ "first_day": "2025-11-23",
  "weeks": [
-  [
-   21,
-   23,
-   15,
-   6,
-   5,
-   1,
-   7
-  ],
   [
    4,
    28,
@@ -545,7 +536,10 @@
    19,
    36,
    44,
-   7
+   8
+  ],
+  [
+   6
   ]
  ]
 }
