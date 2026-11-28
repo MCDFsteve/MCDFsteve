@@ -1,10 +1,10 @@
 {
- "repos": 43,
- "stars_total": 2647,
+ "repos": 44,
+ "stars_total": 2654,
  "stars": {
   "MCDFsteve/Amadeus-R": 35,
   "MCDFsteve/Boat": 0,
-  "MCDFsteve/Enji": 129,
+  "MCDFsteve/Enji": 132,
   "MCDFsteve/enji-plugins": 1,
   "MCDFsteve/flutter_steamworks": 2,
   "MCDFsteve/FnipaPlay": 27,
@@ -23,7 +23,7 @@
   "MCDFsteve/Word-docx-PNG-pdf-": 1,
   "MCDFsteve/Zero-s-Time": 2,
   "AimesSoft/NipaPlay-Reload": 1890,
-  "AimesSoft/SakiEngine": 71,
+  "AimesSoft/SakiEngine": 72,
   "AimesSoft/NipaPlay-OfficialWebUrl": 2,
   "AimesSoft/homebrew-nipaplay-reload": 0,
   "AimesSoft/MisuzuMusic": 97,
@@ -39,36 +39,43 @@
   "AimesSoft/liberika-swift": 0,
   "AimesSoft/flutter-cross-toolchain": 0,
   "AimesSoft/Kana": 1,
-  "AimesSoft/Erika": 3,
+  "AimesSoft/Erika": 4,
   "AimesSoft/RustSend": 9,
   "AimesSoft/erika_plugins": 0,
   "AimesSoft/aimes-report": 0,
   "AimesSoft/rika_plugins": 0,
-  "AimesSoft/research-discussions": 0
+  "AimesSoft/research-discussions": 0,
+  "AimesSoft/Faux": 2
  },
  "languages": {
   "Dart": 29181570,
-  "Rust": 23943930,
-  "C++": 2769339,
-  "Swift": 2175511,
-  "JavaScript": 2011156,
-  "Kotlin": 1168186,
-  "Python": 1017581,
-  "C": 856982,
+  "Rust": 25507142,
+  "C++": 2797703,
+  "Swift": 2188266,
+  "JavaScript": 2058173,
+  "Python": 1223620,
+  "Kotlin": 1184515,
+  "C": 867650,
+  "Lean": 425567,
   "PHP": 232928,
-  "TypeScript": 148557,
+  "TypeScript": 148753,
   "Svelte": 128155,
   "Ruby": 101985,
   "Java": 70920,
   "Objective-C": 39773,
+  "Assembly": 22336,
+  "LLVM": 18790,
+  "FLUX": 17722,
   "TeX": 13875,
+  "Lua": 3778,
+  "Tree-sitter Query": 1778,
   "QMake": 1467,
   "C#": 1090,
   "GDB": 175
  },
  "since": "2020-09-20",
  "followers": 101,
- "contributions": 5622,
+ "contributions": 5630,
  "first_day": "2025-11-23",
  "weeks": [
   [
@@ -545,7 +552,8 @@
    18,
    23,
    37,
-   12
+   14,
+   6
   ]
  ]
 }
